@@ -47,6 +47,11 @@
       & p > a {
         color: $secondary-color;
       }
+
+      & ul {
+        font-size: 1.6rem; // Modifiez la taille de la police selon vos besoins
+        line-height: 2.4rem; // Définissez la hauteur de ligne si nécessaire
+      }
     }
 
     &__image {
